@@ -1,2 +1,2 @@
 <?php
-echo("superman!!!");
+console.log("superman!!!");
